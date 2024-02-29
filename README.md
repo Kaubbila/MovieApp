@@ -3,6 +3,7 @@
 #### Avainsanat: Web-ohjelmointi, fullstack, frontend, backend, database, API, UI/UX wireframe, Node.js, React, JavaScript, PostgreSQL, Render, VS Code, Postman
 
 Tervetuloa tutustumaan elokuvasivustoon, jonka ovat tehneet toisen vuoden tieto- ja viestintätekniikan ohjelmistokehityspuolen opiskelijat Oulun ammattikorkeakoulusta. Projektin tarkoitus on oppia fullstack-ohjelmointia, tekemällä Web-ohjelmoinnin sovellusprojekti (15 op), jonka lopputulos on elokuvasivusto.
+https://movieapp-976r.onrender.com/
 
 Projektia ovat tehneet Lara Laamanen, Jaakko Kauppila, Paula Ervasti, Teemu Yritys ja Sami Köngäs. Ryhmässä jokainen on tehnyt fullstack-ohjelmointia, mutta jokaiselle jaettiin erilliset vastuualueet, jotka vastaavat osioiden etenemisestä. Köngäs on vastannut backendista, Kauppila sekä Yritys databasesta, Laamanen viestinnästä ja Ervasti frontendistä sekä wireframesta.
 

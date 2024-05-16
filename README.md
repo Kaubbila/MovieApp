@@ -23,7 +23,7 @@ The website utilises Finnkino's open API and TMDB's API to provide users with th
 
 >Website is a school project made for Advanced Web Applications Project -course in Oulu University of Applied Sciences
 
-<details open>
+<details close>
 <summary>
   Features
 </summary> <br />
